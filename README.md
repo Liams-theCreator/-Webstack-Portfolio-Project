@@ -6,9 +6,10 @@
 
 “ELEARN” aims to revolutionize the learning experience by providing a centralized platform for students to access their academic progress, lessons, resources, and upcoming school events with ease. This initiative seeks to simplify the learning process by offering a user-friendly interface that streamlines access to vital information. Through this hub, students can efficiently monitor their academic journey, access educational materials, and stay updated on school events.
 
-# Demo
+# Live Demo
 
-[Live Demo](https://elearn-intranet.netlify.app/)
+[Landing Page](https://elearn-platform.netlify.app/)
+[Login Page](https://elearn-login.netlify.app/)
 
 # Key Features
 
@@ -24,7 +25,7 @@ This project is a student Intranet platform dedicated to students, will make acc
 
 # Team
 
-- **Ismail Mellali** - Front-end Developer, Repository Management
+- **Ismail Mellali** - Front-end Developer, Repository Management, UI/UX Designer
 
 # Technologies
 
@@ -42,6 +43,6 @@ This project is a student Intranet platform dedicated to students, will make acc
 ![Landing Page](https://i.imgur.com/LvMlZAl.png)
 ![Feature Section](https://i.imgur.com/OLxbyfv.png)
 
-# Authors
+# Author
 
 - [Ismail Mellali](https://github.com/Liams-theCreator)
